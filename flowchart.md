@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A([START]) --> B[เปิดใช้งานโมดูล]
     B --> C[เชื่อมต่อ Wi-Fi<br/>ด้วย Credentials ที่กำหนด]
@@ -43,3 +44,4 @@ flowchart TD
     class B,C,E,I,J,K,M,O,Q,R,S,P,U,W,X process;
     class D,F,G,H,L,N,T,V decision;
 
+```
