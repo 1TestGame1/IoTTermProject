@@ -1,5 +1,5 @@
 ```mermaid
-flowchart LR
+flowchart TD
     A([START]) --> B[เปิดใช้งานโมดูล]
     B --> C[เชื่อมต่อ Wi-Fi<br/>ด้วยที่กำหนด]
     C --> D{เชื่อมต่อ Wi-Fi<br/>สำเร็จหรือไม่?}
